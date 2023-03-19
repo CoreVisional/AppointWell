@@ -1,0 +1,6 @@
+doctor_id, name, gender, birthdate, age, specialty
+1, Dr. Javish, Male, 1992-06-16, 30, ENT
+2, Dr. Nurul, Female, 1997-11-22, 25, Dermatology
+3, Dr. Siva, Male, 1990-03-06, 32, Cardiology
+4, Dr. Hamida, Female, 1995-08-18, 27, Gastroenterology
+5, Dr. Javi, Male, 1990-03-09, 33, Dermatology

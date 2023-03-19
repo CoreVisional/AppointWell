@@ -1,0 +1,3 @@
+patient_id, name, birthdate, gender, phone_number, email, password
+1, ALEX CHIEW YUNG ZHEN, 2000-01-03, Male, +60136217231, concussion239@gmail.com, Passw1rd@
+2, WINNIE TAY SHU QIN, 2000-04-01, Female, +60162738194, winnie.tay@gmail.com, Lastpass1!

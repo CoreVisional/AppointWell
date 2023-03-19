@@ -1,0 +1,4 @@
+timeslot_id, appointment_date, appointment_time, availability, doctor_name
+1, 2023-03-01, 13:00, Available, Dr. Javish
+2, 2023-03-15, 18:00, Unavailable, Dr. Hamida
+3, 2023-03-15, 19:00, Available, Dr. Javi

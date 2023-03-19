@@ -1,0 +1,4 @@
+appointment_id, appointment_number, booked_on, patient_name, doctor_name, appointment_date, appointment_time, visit_type, appointment_status
+1, 1191, 2023-03-15, ALEX CHIEW YUNG ZHEN, Dr. Hamida, 2023-03-15, 18:00, First Visit, CONFIRMED
+2, 3594, 2023-03-15, ALEX CHIEW YUNG ZHEN, Dr. Javi, 2023-03-15, 19:00, Follow-up, CANCELLED
+3, 116, 2023-03-15, ALEX CHIEW YUNG ZHEN, Dr. Hamida, 2023-03-15, 18:00, Consultation, CANCELLED
